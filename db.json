@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Mando para",
+      "precio": "50.000",
+      "imagen": "assets/img/sport_shirt.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Zapatos deportivos",
+      "precio": "80.000",
+      "imagen": "assets/img/runner_shoes.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Abrigo deportivo",
+      "precio": "90.000",
+      "imagen": "assets/img/sport_coat.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Camiseta de lobo",
+      "precio": "85.000",
+      "imagen": "assets/img/wolf_shirt.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Gorra deportiva",
+      "precio": "40.000",
+      "imagen": "assets/img/sport_cap.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Camiseta deportiva",
+      "precio": "60.000",
+      "imagen": "assets/img/afro_girl_shirt.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Morral deportivo",
+      "precio": "120.000",
+      "imagen": "assets/img/school_bag.jpg"
+    },
+    {
+      "id": "4ac3",
+      "nombre": "Camiseta deportiva",
+      "precio": "40.000",
+      "imagen": "assets/img/woman_shirt.jpg"
+    }
+  ]
+}
