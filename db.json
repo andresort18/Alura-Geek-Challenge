@@ -2,51 +2,33 @@
   "productos": [
     {
       "id": "1",
-      "nombre": "Mando para",
-      "precio": "50.000",
-      "imagen": "assets/img/sport_shirt.jpg"
+      "nombre": "Mando Gamer",
+      "precio": "Q300",
+      "imagen": "assets/img/mando para juegos.jpg"
     },
     {
       "id": "2",
-      "nombre": "Zapatos deportivos",
-      "precio": "80.000",
-      "imagen": "assets/img/runner_shoes.jpg"
+      "nombre": "Mouser Gamer",
+      "precio": "Q400",
+      "imagen": "assets/img/mouse.jpg"
     },
     {
       "id": "3",
-      "nombre": "Abrigo deportivo",
-      "precio": "90.000",
-      "imagen": "assets/img/sport_coat.jpg"
+      "nombre": "Teclado Mecanico",
+      "precio": "Q500",
+      "imagen": "assets/img/teclado mecanico.png"
     },
     {
       "id": "4",
-      "nombre": "Camiseta de lobo",
-      "precio": "85.000",
-      "imagen": "assets/img/wolf_shirt.jpg"
+      "nombre": "Nintendo Switch",
+      "precio": "Q3,000",
+      "imagen": "assets/img/nintendo switch.jpg"
     },
     {
       "id": "5",
-      "nombre": "Gorra deportiva",
-      "precio": "40.000",
-      "imagen": "assets/img/sport_cap.jpg"
-    },
-    {
-      "id": "6",
-      "nombre": "Camiseta deportiva",
-      "precio": "60.000",
-      "imagen": "assets/img/afro_girl_shirt.jpg"
-    },
-    {
-      "id": "7",
-      "nombre": "Morral deportivo",
-      "precio": "120.000",
-      "imagen": "assets/img/school_bag.jpg"
-    },
-    {
-      "id": "4ac3",
-      "nombre": "Camiseta deportiva",
-      "precio": "40.000",
-      "imagen": "assets/img/woman_shirt.jpg"
+      "nombre": "Laptop Gamer",
+      "precio": "Q10,000",
+      "imagen": "assets/img/laptop gamer.jpg"
     }
   ]
 }
